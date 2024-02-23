@@ -1,4 +1,35 @@
-.Wh{
-    width: 10px;
-    height: 10px;
+.Catala {
+    background-color: yellow;
+}
+
+.Castalla {
+    background-color: red;
+}
+
+.Medi {
+    background-color: green;
+}
+
+.Mates {
+    background-color: blue;
+}
+
+.Angles {
+    background-color: purple;
+}
+
+.Pati {
+    background-color: cyan;
+}
+
+.Hora {
+    background-color: lime;
+}
+
+table {
+    background-color: brown;
+}
+
+.Letra {
+    background-color: mediumseagreen;
 }
