@@ -125,9 +125,13 @@
 }
 
 table {
-    background-color: brown;
+    background-color: rgb(0, 166, 255);
 }
 
 .Letra {
     background-color: mediumseagreen;
+}
+
+.LetraColor {
+    color: red;
 }
