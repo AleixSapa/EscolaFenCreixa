@@ -2,7 +2,10 @@
     width: 650px;
     height: 533px;
 }
-
+.img{
+    width: 500px;
+    height: 500px;
+}
 #calendar {
     max-width: 900px;
     margin: 50px auto;
