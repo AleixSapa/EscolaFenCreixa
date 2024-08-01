@@ -1,0 +1,87 @@
+#img {
+    width: 650px;
+    height: 533px;
+}
+.img{
+    width: 500px;
+    height: 500px;
+}
+#calendar {
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+.logo {
+    width: 100%;
+}
+
+.contenedor {
+    width: 100%;
+    overflow: hidden;
+}
+
+.hijos {
+    float: left;
+    width: 45%;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+
+
+/* Estilos para el contenedor principal del menú desplegable */
+.dropdown {
+    position: relative;
+    /* Establece la posición como relativa */
+    display: inline-block;
+    /* Muestra el contenedor como un bloque en línea */
+    float: right;
+}
+
+/* Estilos para el contenido del menú desplegable */
+.dropdown-content {
+    display: none;
+    /* Oculta el contenido del menú por defecto */
+    position: absolute;
+    /* Establece la posición como absoluta */
+    background-color: #f9f9f9;
+    /* Color de fondo del menú */
+    min-width: 170px;
+    /* Ancho mínimo del menú */
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    /* Sombra */
+    z-index: 1;
+    /* Eleva el menú por encima de otros elementos */
+    right: 0;
+}
+
+/* Estilos para los elementos de anclaje dentro del menú desplegable */
+.dropdown-content a {
+    color: rgb(20, 20, 194);
+    /* Color del texto */
+    padding: 12px 16px;
+    /* Relleno alrededor del texto */
+    text-decoration: none;
+    /* Sin subrayado enlaces */
+    display: block;
+    /* Muestra los enlaces como bloques */
+}
+
+/* Estilos para los enlaces cuando se pasa el cursor sobre ellos */
+.dropdown-content a:hover {
+    background-color: #e21515;
+    /* Cambia el color de fondo */
+}
+
+/* Mostrar el contenido del menú cuando se pasa el cursor sobre el contenedor principal */
+.dropdown:hover .dropdown-content {
+    display: block;
+    /* Muestra el contenido del menú */
+}
+
+.Descripcion{
+    color: blue;
+}
