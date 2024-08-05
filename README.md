@@ -10,19 +10,6 @@ Pogrmada par l'aleix
 
 # HTML
 
-## Etiquetes Basiques (Sesio 2)
-
-<h1>Aixo es el títol me gran, hi han 6 en total</h1>
-<p>Aixo es un parágrafo</p>
-<b>es un texto amb negreta</b>
-<i>aixo es la cursiva</i>
-<s>Aixo es el rallat</s>
-<u>Aixo es el subratllat</u>
-<br>Aixo es un salt de línia
-<img src="image/Eevee01.png"> Aixo es una Imatge
- <!-- Aixo son comentaris -->
-<center>Aixo Serveix per a lu que posis dins es posi en el centre</center>
-
 ## Etiquetes taules(Sesio 3)
 
 <table>Aixo es la taula taula </table>
